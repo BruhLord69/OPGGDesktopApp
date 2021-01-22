@@ -1,0 +1,9 @@
+C:\Users\alisa\Desktop\api projektas\APi2\ApiLib\bin\Debug\netstandard2.0\ApiLib.deps.json
+C:\Users\alisa\Desktop\api projektas\APi2\ApiLib\bin\Debug\netstandard2.0\ApiLib.dll
+C:\Users\alisa\Desktop\api projektas\APi2\ApiLib\bin\Debug\netstandard2.0\ApiLib.pdb
+C:\Users\alisa\Desktop\api projektas\APi2\ApiLib\obj\Debug\netstandard2.0\ApiLib.csprojAssemblyReference.cache
+C:\Users\alisa\Desktop\api projektas\APi2\ApiLib\obj\Debug\netstandard2.0\ApiLib.AssemblyInfoInputs.cache
+C:\Users\alisa\Desktop\api projektas\APi2\ApiLib\obj\Debug\netstandard2.0\ApiLib.AssemblyInfo.cs
+C:\Users\alisa\Desktop\api projektas\APi2\ApiLib\obj\Debug\netstandard2.0\ApiLib.csproj.CoreCompileInputs.cache
+C:\Users\alisa\Desktop\api projektas\APi2\ApiLib\obj\Debug\netstandard2.0\ApiLib.dll
+C:\Users\alisa\Desktop\api projektas\APi2\ApiLib\obj\Debug\netstandard2.0\ApiLib.pdb
